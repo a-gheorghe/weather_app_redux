@@ -1,25 +1,11 @@
-# ReduxSimpleStarter
+# Redux Weather App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This app was built while doing Stephen Grider's React-Redux course on Udemy. The app allows you to search for any cities in the USA and to display 5 days of temperature, pressure, and humidity in those cities. It uses React, Redux, Sparklines (for graphing), and Google Maps.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+To run this app:
+ - Clone or download this repo
+ - npm install all dependencies
+ - npm start
+ - open a browser and go to localhost:8080
